@@ -68,3 +68,22 @@
       height: 100%;
     }
   }
+  @media (max-width: 575px){
+    .content h1 {
+        font-size: 100px;
+        color: #fff;
+        font-weight: 600;
+        transition: 0.5s;
+      }
+      .content a {
+        text-decoration: none;
+        display: inline-block;
+        color: #fff;
+        font-size: 14px;
+        border: 2px solid white;
+        padding: 14px 50px;
+        margin-top: 20px;
+        transition: 0.5s;
+      }
+      
+  }
