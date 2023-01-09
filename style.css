@@ -70,12 +70,14 @@
   }
   @media (max-width: 575px){
     .content h1 {
+        text-align: center;
         font-size: 80px;
         color: #fff;
         font-weight: 400;
         transition: 0.5s;
       }
       .content a {
+        text-align: center;
         text-decoration: none;
         display: inline-block;
         color: #fff;
